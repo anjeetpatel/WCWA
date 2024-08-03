@@ -4,7 +4,7 @@ import "./First.css";
 const First = () => {
   return (
     <div className="heading homepage w-100">
-      <h1>
+      <h1 color="Red">
         Welcome to Worldwide Cosmetology and wellness Accreditation Pvt Ltd
       </h1>
       <p>

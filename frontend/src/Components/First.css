@@ -1,5 +1,14 @@
 .heading {
+  background-image: url("bg.png");
   background-color: aquamarine;
+  background-image {
+   /* width: fit-c; */
+   height: 100;
+  }
+}
+h1{
+  color: red;
+
 }
 
 .edu {
